@@ -69,6 +69,7 @@ time: (numeric) hours after start of test
 <a name="prerequisite"/></a>
 ## Prerequisites
 * Python
+* VsCode
 * Jupyter Notebook
 * Pandas
 * Numpy
