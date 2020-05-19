@@ -3,7 +3,7 @@ This is a capstone project for the course completed in response to Udacity- Data
 Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 Not all users receive the same offer, and that is the challenge to solve with this data set.   
 Main task is to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type.
-
+You can find the blog post link here [MEDIUM-BLOG](https://medium.com/@xpressprat/evaluating-starbucks-promotional-offers-capstone-challenge-31f7ced7ac19)
 ## Table Of Contents  
 * [Motivation](#moti)  
 * [Summary](#summary)  
